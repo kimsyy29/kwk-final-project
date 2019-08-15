@@ -1,0 +1,32 @@
+/* general CSS for entire web app */
+
+body{
+ background-image: url(https://images.pexels.com/photos/1098769/pexels-photo-1098769.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+height: 100vh;
+background-size: cover;
+background-position: center;
+}
+.main-nav{
+ float: right;
+ list-style: none;
+ margin-top: 30px;
+ border: 1px solid black;
+ background-color: black;
+}
+.main-nav li{
+ display: inline-block;
+}
+
+.main-nav li a{
+ font-family: "roboto", sans-serif;
+ color:white;
+ text-decoration:none;
+ padding:5px 20px;
+ font-size: 5vw;
+}
+
+.main-nav li a:hover{
+  border:1px solid white;
+}
+
+/* css for homepage */

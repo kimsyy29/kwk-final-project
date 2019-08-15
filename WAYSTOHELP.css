@@ -1,0 +1,53 @@
+body{
+  background-image: url(http://www.webdesignhot.com/wp-content/uploads/2013/03/Light-Background-Green-Abstract-Vector.jpg);
+  background-position: center;
+  height:100vh;
+  background-size: cover;
+}
+
+section{
+  font-family:"roboto", sans-serif;
+  text-align: center;
+}
+
+.header{
+  font-size: 30px;
+  border:1px solid black;
+}
+
+.firsttext{
+  font-size:20px;
+}
+
+.r{
+  padding: 10px;
+  font-family: "roboto", sans-serif;
+  border-radius: 10px;
+  font-size: 20px;
+}
+.r:hover{
+background-color: black;
+color: white;
+
+}
+
+.q {
+  font-size: 30px;
+}
+
+.unicef{
+  font-size: 20px;
+}
+
+.un{
+  font-family: "roboto",sans-serif;
+}
+
+.h {
+  height:250px;
+  width:300px;
+}
+
+.h:hover{
+border: 3px solid black;
+}

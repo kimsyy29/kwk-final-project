@@ -1,0 +1,67 @@
+body{
+   background-image: url(https://st2.depositphotos.com/1747568/11982/v/950/depositphotos_119822948-stock-illustration-polygonal-light-background-can-be.jpg);
+   background-position: center;
+   height:100vh;
+   background-size: cover;
+}
+
+section{
+  font-family:"roboto", sans-serif;
+  text-align: center;
+}
+
+.r{
+  font-size:20px;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  font-family: "roboto", sans-serif;
+}
+
+.r:hover{
+  background-color: black;
+  color:white;
+}
+
+.y:hover{
+  background-color: black;
+  color:white;
+}
+
+.div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.h1{
+  font-size: 35px;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.t:hover {
+border:3px black solid;
+
+}
+
+.y{
+  font-size:20px;
+  font-family: "roboto", sans-serif;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.z{
+  font-size: 25px;
+}
+
+.q {
+  font-size: 30px;
+
+}
+
+.w {
+    font-size: 30px;
+}

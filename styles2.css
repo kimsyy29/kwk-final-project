@@ -1,0 +1,30 @@
+body{
+background-image: url(https://images.pexels.com/photos/1125850/pexels-photo-1125850.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+height: 100vh;
+background-size: cover;
+background-position: center;
+}
+
+.main-nav2{
+ float: right;
+ list-style: none;
+ margin-top: 30px;
+ border: 1px solid black;
+ background-color: black;
+}
+.main-nav2 li{
+ display: inline-block;
+}
+
+.main-nav2 li a{
+ font-family: "roboto", sans-serif;
+ color:white;
+ text-decoration:none;
+ padding:5px 20px;
+ font-size: 5vw;
+ font-weight: bold;
+}
+
+.main-nav2 li a:hover{
+  border:1px solid white;
+}

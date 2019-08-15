@@ -1,0 +1,89 @@
+/* general CSS for entire web app */
+
+body{
+ background-image: url(https://i.ytimg.com/vi/KFNxdXEe0Ko/maxresdefault.jpg);
+ background-size: cover;
+ height: 100vh;
+ background-position: center;
+}
+
+section{
+  font-family: "roboto", sans-serif;
+  text-align: center;
+  color:white;
+}
+.header{
+  border: 1px solid white;
+  text-align: center;
+  font-size: 30px
+}
+
+.christina {
+  height:300px;
+  width:30%;
+  object-fit: cover;
+}
+
+.christina:hover {
+  border: 3px white solid;
+}
+
+.esther {
+  height: 300px;
+  width: 30%;
+  object-fit:cover;
+}
+
+.esther:hover {
+  border:3px solid white;
+}
+
+.zara{
+  height: 300px;
+  width: 30%;
+  object-fit: cover;
+}
+
+.zara:hover{
+  border:3px solid white;
+}
+
+.photos {
+display: flex;
+flex-direction: column;
+
+}
+
+.z{
+  display: flex;
+  justify-content: space-between;
+}
+
+.ztext{
+  font-size: 25px;
+}
+
+.c{
+  display: flex;
+  justify-content: space-between;
+}
+
+.e{
+  display: flex;
+  justify-content: space-between;
+}
+
+.etext{
+  font-size: 25px;
+}
+
+.ctext{
+  font-size: 25px;
+}
+
+.selfie{
+  height:200px;
+  width:30%;
+  object-fit: cover;
+  border: 3px solid white;
+}

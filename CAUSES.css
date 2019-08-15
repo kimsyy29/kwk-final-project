@@ -1,0 +1,79 @@
+body{
+ background-image: url(https://cdn.wallpapersafari.com/29/50/vkKRMX.jpg);
+ background-position: center;
+ height:100vh;
+ background-size: cover;
+}
+
+section{
+  text-align: center;
+  font-family:"roboto",sans-serif;
+  font-size:25px;
+}
+.h1{
+  text-align: center;
+  border: 1px solid black;
+}
+
+
+.p{
+  size: 50px;
+}
+
+.a{
+  size:29px;
+}
+.graph{
+  height: 600px;
+  width: 750px;
+}
+
+.graphp{
+  size:29px;
+}
+
+.t {
+  justify-content: center;
+  padding: 10px;
+  border-radius: 20px;
+  font-size: 30px;
+  font-family: "roboto",sans-serif;
+  display: flex;
+}
+
+.povpic{
+  height: 200px;
+  width: 300px;
+}
+
+.buttonone{
+  font-size: 30px;
+  font-family: "roboto", sans-serif;
+}
+
+.buttonone:hover{
+  background-color: black;
+  color:white;
+}
+
+.main-nav2 {
+   float:right;
+   list-style: none;
+   margin-top: 30px;
+}
+
+.main-nav2 li{
+ display: inline-block;
+}
+
+.main-nav2 li a{
+ font-family: "roboto", sans-serif;
+ color:black;
+ text-decoration:none;
+ padding:5px 20px;
+ font-size: 15px;
+}
+
+.main-nav2 li a:hover {
+    border:1px solid white;
+}
